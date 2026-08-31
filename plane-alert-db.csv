@@ -5532,13 +5532,21 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48645B,PH-IBM,Private,Extra NG,EXNG,Civ,Aerobatics,All Carbon,Next Generation,Joe Cool,https://tinyurl.com/5vmpwb4w
 48648B,PH-0B1,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
 4867E6,PH-UTL,Max Verstappen,Dassault Falcon 8X,FA8X,Civ,Crash Verstappen,Hamilton Woz Robbed,Justice4Lewis,Don't you know who I am?,https://w.wiki/52ik
+48810D,SP-AIN,Private,Cessna 560XL Citation XLS,C56X,Civ,Not A Country,Poland Actually,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spain
+488204,SP-ARE,Private,Piper PA-46-600TP M600,M600,Civ,Got A Spare,Just In Case,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spare
+488209,SP-ARK,Private,Dassault Falcon 2000,F2TH,Civ,Ignition,Bright And Brief,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spark
 488EC0,SP-DXA,Polish Medical Air Service,Airbus H135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 488EC1,SP-DXB,Polish Medical Air Service,Airbus H135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 488EC2,SP-DXC,Polish Medical Air Service,Airbus H135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 488EC3,SP-DXD,Polish Medical Air Service,Airbus H135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 488FE8,SP-MXH,Polish Medical Air Service,Piaggio P-180 Avanti EVO,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 489009,SP-EAK,Smart Jet,Beechjet 400XP,BE40,Civ,Speak And Spell,Thus Spoke Zarathustra,Vanity Plate,Vanity Plate,https://youtu.be/mL2k1Gp8ywE
+489010,SP-EAR,Private,CAP Aviation CAP-10,CP10,Civ,The Pointy End,Aerobatic,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spear
+489051,SP-ECS,Private,Cirrus SR-22T,S22T,Civ,Four Eyes,Read The Fine Print,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/specs
 489083,SP-EED,Private,Xtremeair Sbach XA-41,XA41,Civ,Umlimited Aerobatics,Speed,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
+48916B,SP-ELL,Private,Robinson R-44 Raven,R44,Civ,Abracadabra,Magic Words,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spell
+489172,SP-ELT,Private,Tecnam P-2008,P208,Civ,Ancient Grain,Or The Past Tense,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spelt
+48920C,SP-ERM,Private,Socata Rallye,RALL,Civ,Whale Of A Time,Swimming Upstream,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sperm
 48988E,SP-GEO,Opegieka,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
 489A50,SP-GTR,Private,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Distinctive,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
 489EC1,SP-HXB,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
@@ -5565,6 +5573,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 489ED6,SP-HXX,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 489ED7,SP-HXY,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 489ED8,SP-HXV,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
+48A044,SP-ICE,Private,Cessna 150,C150,Civ,Adds Flavour,Nice And Peppery,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spice
+48A091,SP-IES,Private,Cirrus SR-22T,S22T,Civ,Top Secret,Under Cover,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spies
+48A1B1,SP-INS,Private,Pipistrel Virus,PIVI,Civ,Round And Round,Recover By 1000ft,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spin
 48A231,SP-ISS,Opegieka,Beech King Air C90A,BE9L,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
 48AD06,SP-LIG,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
 48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
@@ -5575,16 +5586,24 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48B2CA,SP-MXI,Polish Medical Air Service,Piaggio P-180 Avanti EVO,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 48B2D0,SP-MXR,Polish Medical Air Rescue,Learjet 75 Liberty,LJ75,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 48B2D1,SP-MXS,Polish Medical Air Service,Learjet 75 Liberty,LJ75,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
+48B92E,SP-OKO,Private,Christen Husky,HUSK,Civ,Polish For Chill,No Worries,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spoko
 48B9C9,SP-OOK,Smart Jet,Beechjet 400XP,BE40,Civ,Spy Vs Spy,Ghostly,Vanity Plate,Vanity Plate,https://www.smart-jet.pl/fleet
+48B9CB,SP-OOL,Private,Cessna 172 Skyhawk,C172,Civ,Spool Up,Winding,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spool
+48B9CD,SP-OON,Private,Cirrus SR-22,SR22,Civ,Cutlery,Stirring Stuff,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spoon
 48B9E4,SP-OPE,Opegieka,Tecnam P.2006T SMP,P06T,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
 48B9E6,SP-OPG,Opegieka,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
 48B9E9,SP-OPK,Opegieka,Diamond Aircraft DA62,DA62,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
+48BA12,SP-ORT,Private,Pilatus PC-12,PC12,Civ,Game On,Sporty,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sport
+48C017,SP-RAY,Private,Pipistrel Virus,PIVI,Civ,A Fine Mist,Not A Crop Duster,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spray
+48C084,SP-REE,Private,Pipistrel Virus,PIVI,Civ,On A Spree,Out On The Town,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spree
 48C0DE,SN-45YG,Polish Border Guard,PZL-104M Wilga 2000,PZ4M,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
 48C15E,SN-42YG,Polish Border Guard,PZL-104M Wilga 2000,PZ4M,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
+48C2F2,SP-RYT,Private,Diamond DA-40 Star,DA40,Civ,Polish For Wit,Quick Thinking,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spryt
 48C4DE,SN-48YG,Polish Border Guard,Safran S-15 Patroller UAV,S15U,Gov,UAV,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
 48C65E,SN-47YG,Polish Border Guard,Stemme S-15,S15S,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
 48C672,SP-SUT,Silesian University of Technology,Tecnam P.2006T Mk II,P06T,Civ,Flight Training,Multi Engine,Acronym,Vanity Plate,https://www.polsl.pl/rt/en/
 48C9F3,SP-TPU,Polish Air Navigation Services Agency,B350 Super King Air,B350,Civ,Airspace Management,FIR Warsaw,AFTM,Dogs with Jobs,https://en.wikipedia.org/wiki/PANSA
+48CE11,SP-URS,Private,Beechcraft King Air 200,BE20,Civ,Giddy Up,Cowboy Boots,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spur
 48CE48,SP-UTI,Fubar Aviation,WSK SB Lim-2 (MiG-15UTI),MG15,Civ,Mig,006,Made in Poland,Historic,https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15
 48D820,213,Polish Air Force,PZL M-28 B1TD Bryza,M28,Mil,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D821,0214,Polish Air Force,PZL-Mielec M-28 Skytruck,M28,Mil,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
@@ -5698,7 +5717,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48DCD1,SP-YGS,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 48DDB5,SP-YNZ,Fubar Aviation,WSK SB Lim-2 (MiG-15UTI),MG15,Civ,Mig,006,Made in Poland,Historic,https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15
 48E6D0,SP-MIL,Fubar Aviation,WSK Lim-5 (MiG-17F),MG17,Civ,Mig,1211,Made in Poland,Historic,https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-17
+48E6D5,SP-ILT,Private,Tomark SD-4 Viper,SD4,Civ,No Use Crying,Over Milk,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spilt
+48E8BF,SP-ACER,Private,Aeroprakt A-20 Vista,AP20,Civ,Mind The Gap,A Walk In Polish,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spacer
+48E93B,SP-RAT,Private,Tecnam P-2008,P208,Civ,Small Fish,Tiddler,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sprat
 48E9DF,SP-OPA,Opegieka,Diamond Aircraft DA62,DA62,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
+48EA6C,SP-ITS,Private,Pitts S-2B Special,PTS2,Civ,Not A Spitfire,Its A Pitts,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spit
+48EB38,SP-INKA,Private,Aeroprakt A-32 Vixxen,AP32,Civ,Polish For Hairpin,Clip It,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spinka
 48F3A5,SN-73XP,Polish Police,Sikorsky S-70i Black Hawk,H60,Pol,Police Squad,Policja,Copper Chopper,Police Forces,https://policja.pl
 48F3A6,SN-74XP,Polish Police,Sikorsky S-70i Black Hawk,H60,Pol,Police Squad,Policja,Copper Chopper,Police Forces,https://policja.pl
 48F3A7,SN-80XP,Polish Police,Bell 407GXi,B407,Pol,Police Squad,Policja,Copper Chopper,Police Forces,https://policja.pl
@@ -5708,6 +5732,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48F3AC,SN-84XP,Polish Police,Bell 407GXi,B407,Pol,Police Squad,Policja,Copper Chopper,Police Forces,https://policja.pl
 48F3AD,SN-85XP,Polish Police,Bell 407GXi,B407,Pol,Police Squad,Policja,Copper Chopper,Police Forces,https://policja.pl
 48F3AE,SN-86XP,Polish Police,Bell 407GXi,B407,Pol,Police Squad,Policja,Copper Chopper,Police Forces,https://policja.pl
+48FA44,SP-RITE,Private,Aveko VL-3 Sprint,VL3,Civ,Fizzy Drink,Or A Woodland Fairy,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sprite
 490752,CS-AZR,Private,DHC-1 Chipmunk 20,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 490758,CS-AZX,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 49102A,CS-DAJ,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -17197,28 +17222,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-48E8BF,SP-ACER,Private,Aeroprakt A-20 Vista,AP20,Civ,Mind The Gap,A Walk In Polish,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spacer
-48810D,SP-AIN,Private,Cessna 560XL Citation XLS,C56X,Civ,Not A Country,Poland Actually,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spain
-488204,SP-ARE,Private,Piper PA-46-600TP M600,M600,Civ,Got A Spare,Just In Case,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spare
-488209,SP-ARK,Private,Dassault Falcon 2000,F2TH,Civ,Ignition,Bright And Brief,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spark
-489010,SP-EAR,Private,CAP Aviation CAP-10,CP10,Civ,The Pointy End,Aerobatic,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spear
-489051,SP-ECS,Private,Cirrus SR-22T,S22T,Civ,Four Eyes,Read The Fine Print,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/specs
-48916B,SP-ELL,Private,Robinson R-44 Raven,R44,Civ,Abracadabra,Magic Words,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spell
-489172,SP-ELT,Private,Tecnam P-2008,P208,Civ,Ancient Grain,Or The Past Tense,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spelt
-48920C,SP-ERM,Private,Socata Rallye,RALL,Civ,Whale Of A Time,Swimming Upstream,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sperm
-48A044,SP-ICE,Private,Cessna 150,C150,Civ,Adds Flavour,Nice And Peppery,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spice
-48A091,SP-IES,Private,Cirrus SR-22T,S22T,Civ,Top Secret,Under Cover,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spies
-48E6D5,SP-ILT,Private,Tomark SD-4 Viper,SD4,Civ,No Use Crying,Over Milk,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spilt
-48EB38,SP-INKA,Private,Aeroprakt A-32 Vixxen,AP32,Civ,Polish For Hairpin,Clip It,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spinka
-48A1B1,SP-INS,Private,Pipistrel Virus,PIVI,Civ,Round And Round,Recover By 1000ft,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spin
-48EA6C,SP-ITS,Private,Pitts S-2B Special,PTS2,Civ,Not A Spitfire,Its A Pitts,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spit
-48B92E,SP-OKO,Private,Christen Husky,HUSK,Civ,Polish For Chill,No Worries,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spoko
-48B9CB,SP-OOL,Private,Cessna 172 Skyhawk,C172,Civ,Spool Up,Winding,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spool
-48B9CD,SP-OON,Private,Cirrus SR-22,SR22,Civ,Cutlery,Stirring Stuff,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spoon
-48BA12,SP-ORT,Private,Pilatus PC-12,PC12,Civ,Game On,Sporty,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sport
-48E93B,SP-RAT,Private,Tecnam P-2008,P208,Civ,Small Fish,Tiddler,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sprat
-48C017,SP-RAY,Private,Pipistrel Virus,PIVI,Civ,A Fine Mist,Not A Crop Duster,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spray
-48C084,SP-REE,Private,Pipistrel Virus,PIVI,Civ,On A Spree,Out On The Town,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spree
-48FA44,SP-RITE,Private,Aveko VL-3 Sprint,VL3,Civ,Fizzy Drink,Or A Woodland Fairy,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/sprite
-48C2F2,SP-RYT,Private,Diamond DA-40 Star,DA40,Civ,Polish For Wit,Quick Thinking,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spryt
-48CE11,SP-URS,Private,Beechcraft King Air 200,BE20,Civ,Giddy Up,Cowboy Boots,Vanity Plate,Vanity Plate,https://en.wiktionary.org/wiki/spur
