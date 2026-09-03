@@ -665,6 +665,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 401BB9,G-BCXN,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 401BBB,G-BPAL,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 401BBD,G-BCYM,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+401C54,G-BEDF,B-17 Preservation Ltd,Boeing B-17G Flying Fortress,B17,Civ,Historic,Bomber,Sentimental Journey,Historic,https://w.wiki/3oYs
 401C90,G-PIII,Private,Pitts Special S-1D,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://w.wiki/Diwz
 401CCA,G-BFAW,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 401CCB,G-BFAX,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -1160,7 +1161,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407CBF,G-LNCC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
 407D81,G-DKNC,Draken Europe,Aero L-159A ALCA,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 407E67,G-DKNF,Draken Europe,Aero L-159A ALCA,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
+407F76,G-LAAA,London Air Ambulance,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.londonsairambulance.org.uk
 407FD8,G-RESB,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+407FDD,G-LAAB,London Air Ambulance,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.londonsairambulance.org.uk
 408095,G-EHAT,Essex and Herts Air Ambulance,Leonardo AW169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ehaat.org
 40831D,G-DKNO,Draken Europe,Aero Vodochody L-159E Honey Badger,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 40831E,G-DKNN,Draken Europe,Aero Vodochody L-159E Honey Badger,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
